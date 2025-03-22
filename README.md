@@ -1,0 +1,1 @@
+# RedSpace - An In-Memory database cache inspired by Redis
